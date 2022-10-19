@@ -1,0 +1,11 @@
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\bin\Debug\Cockroach run.exe.config
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\bin\Debug\Cockroach run.exe
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\bin\Debug\Cockroach run.pdb
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach run.csproj.AssemblyReference.cache
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach run.csproj.SuggestedBindingRedirects.cache
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach_run.Form1.resources
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach_run.Properties.Resources.resources
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach run.csproj.GenerateResource.cache
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach run.csproj.CoreCompileInputs.cache
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach run.exe
+C:\Users\19095\Desktop\g\Cockroach run\Cockroach run\obj\Debug\Cockroach run.pdb
